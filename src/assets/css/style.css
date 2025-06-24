@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.font--family{
+    font-family: 'inter', 'sans-serif';
+}
+
+.font--size--16{
+    font-size: 16px;
+}
+
+.font--size--14{
+    font-size: 14px;
+}
+
+.font--weigth--bold{
+    font-weight: bold;
+}
+
+.background--white{
+    background-color: white;
+}
+
+.background--green{
+    background-color: #78E378;
+}
+
+.background--light--grey{
+    background-color: #F5F5F5;
+}
+
+.avatar--top--bar{
+    width: 40px;
+    height: 40px;
+}
+
+.avatar--left--bar{
+    width: 48px;
+    height: 48px;
+}
+
+.left--bar{
+    border: 0.5px solid #D9DCE0;
+}
+
+.quantity--messages{
+    width: 18px;
+    height: 18px;
+}
+
+.menu{
+    height: 60px;
+}
+
+ .div--search{
+    border-radius: 25px;
+    padding: 10px;
+    width: 100%;
+ }
+
+ .search{
+padding-right: 30px;
+ }
+
+  .div--search input{
+    border: 0;
+    background: transparent;
+    outline: 0;
+    flex-grow: 1;
+    color: #707991;
+    font-family: 'inter', 'sans-serif';
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.area--contact{
+    height: 72px;
+    padding-right: 10px;
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.div--contacts{
+    margin-top: 5px;
+}
+
+.infos--contact{
+    gap: 5px;
+}
+
+.last--message{
+    font-family: 'inter', 'sans-serif';
+    font-weight: normal;
+    color: #707991;
+    font-size: 14px;
+}
+
+.hour--last--message{
+    font-family: 'inter', 'sans-serif';
+    font-size: 12px;
+    color: #707991;
+    font-weight: normal;
+}
+
+.quantity--last--viewed--messages{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    font-size: 12px;
+    font-family: 'inter', 'sans-serif';
+    color: white;
+}
+
+.last--messages--info{
+    gap: 5px;
+}
+
+.side--bar{
+    height: 50px;
+    width: 100%;
+    border-bottom: 1px solid #D9DCE0;
+    gap: 10px;
+}
+
+.contact--name{
+    font-family: 'inter', 'sans-serif';
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.contact--status{
+    font-family: 'inter', 'sans-serif';
+    font-size: 12px;
+    color: #707991;
+}
+
+.div--sidebar--icons{
+    padding-right: 15px;
+    gap: 30px;
+}
+
+.div--container--messages{
+    padding-bottom: 20px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.background--messages {
+background-image: url("../images/background.png");
+height: 100%;
+width: 100%;
+}
+
+.date--chat{
+    width: 70px;
+    height: 28px;
+    border-radius: 15px;
+    background-color: #3D70B8;
+    font-family: 'inter', 'sans-serif';
+    font-size: 16px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.message{
+    padding: 10px;
+    border-radius: 12px;
+    font-family: 'inter', 'sans-serif';
+    font-size: 14px;
+    max-width: 350px;
+    gap: 5px;
+}
+
+.other{
+    background-color: white;
+}
+
+.you{
+    background-color: #78E378;
+}
+
+.infos--message{
+    gap: 5px;
+}
+
+.div--messages{
+    gap: 10px;
+}
+
+.div--text--field{
+    height: 56px;
+    border-radius: 10px;
+    background-color: white;
+    width: 100%;
+}
+
+.text--field{
+    width: 100%;
+    border: 0;
+    outline: 0;
+    height: 98% ;
+    font-family: 'inter', 'sans-serif';
+    font-size: 14px;
+}
